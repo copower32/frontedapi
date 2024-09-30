@@ -1,5 +1,5 @@
 
-const apiUrl = 'https://apisp32.onrender.com/api/sensor-data';
+const apiUrl = 'https://apisp32-production.up.railway.app/api/data-sensor/list';
 
 async function fetchData() {
   try {
